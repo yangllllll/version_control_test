@@ -6,5 +6,5 @@ Created on Sat Jan 27 00:20:36 2018
 @author: yll
 """
 
-for i in range(1,3):
+for i in range(1,10):
     print(i)
